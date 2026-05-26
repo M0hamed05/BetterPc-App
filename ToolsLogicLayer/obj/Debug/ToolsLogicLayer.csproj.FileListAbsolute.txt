@@ -1,0 +1,12 @@
+E:\Projects\BetterPc\ToolsLogicLayer\bin\Debug\ToolsLogicLayer.dll
+E:\Projects\BetterPc\ToolsLogicLayer\bin\Debug\ToolsLogicLayer.pdb
+E:\Projects\BetterPc\ToolsLogicLayer\obj\Debug\ToolsLogicLayer.csproj.AssemblyReference.cache
+E:\Projects\BetterPc\ToolsLogicLayer\obj\Debug\ToolsLogicLayer.csproj.CoreCompileInputs.cache
+E:\Projects\BetterPc\ToolsLogicLayer\obj\Debug\ToolsLogicLayer.dll
+E:\Projects\BetterPc\ToolsLogicLayer\obj\Debug\ToolsLogicLayer.pdb
+E:\Projects\C#\BetterPc\ToolsLogicLayer\bin\Debug\ToolsLogicLayer.dll
+E:\Projects\C#\BetterPc\ToolsLogicLayer\bin\Debug\ToolsLogicLayer.pdb
+E:\Projects\C#\BetterPc\ToolsLogicLayer\obj\Debug\ToolsLogicLayer.csproj.AssemblyReference.cache
+E:\Projects\C#\BetterPc\ToolsLogicLayer\obj\Debug\ToolsLogicLayer.csproj.CoreCompileInputs.cache
+E:\Projects\C#\BetterPc\ToolsLogicLayer\obj\Debug\ToolsLogicLayer.dll
+E:\Projects\C#\BetterPc\ToolsLogicLayer\obj\Debug\ToolsLogicLayer.pdb

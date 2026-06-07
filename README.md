@@ -6,6 +6,13 @@
 
 ## ✨ Key Features
 
+
+
+
+https://github.com/user-attachments/assets/5fa874ae-3820-4935-b254-a48c22ca05b3
+
+
+
 ### ⚡ Speed & Performance Optimization
 * **Startup Manager Shortcut:** Direct link to disable resource-heavy startup applications.
 * **Background Apps Management:** Quick access to toggle off Windows apps running silently in the background.

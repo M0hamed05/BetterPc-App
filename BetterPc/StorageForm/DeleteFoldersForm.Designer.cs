@@ -85,9 +85,8 @@
             // checkBoxBrowersCache
             // 
             this.checkBoxBrowersCache.AutoSize = true;
-            this.checkBoxBrowersCache.Checked = true;
-            this.checkBoxBrowersCache.CheckState = System.Windows.Forms.CheckState.Checked;
             this.checkBoxBrowersCache.Dock = System.Windows.Forms.DockStyle.Top;
+            this.checkBoxBrowersCache.Enabled = false;
             this.checkBoxBrowersCache.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.checkBoxBrowersCache.Location = new System.Drawing.Point(5, 249);
             this.checkBoxBrowersCache.Name = "checkBoxBrowersCache";
